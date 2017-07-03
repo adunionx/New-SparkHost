@@ -16,16 +16,16 @@
                       <h4 class="wow zoomIn" data-wow-delay="0.2s"><i class="fa fa-check-square-o"></i>Web Hosting</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.4s"><i class="fa fa-check-square-o"></i>Domain Names</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.4s"><i class="fa fa-check-square-o"></i>Reseller Hosting</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4 class="wow zoomIn" data-wow-delay="0.6s"><i class="fa fa-check-square-o"></i>SSL Certificates</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.5s"><i class="fa fa-check-square-o"></i>Firewall Protection</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.5s"><i class="fa fa-check-square-o"></i>VPS Server</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.8s"><i class="fa fa-check-square-o"></i>Data Security</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.8s"><i class="fa fa-check-square-o"></i>Dedicated Server</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4 class="wow zoomIn" data-wow-delay="1.0s"><i class="fa fa-check-square-o"></i>Website Services</h4>
@@ -61,10 +61,10 @@
                       <h4><i class="fa fa-check-square-o"></i>Unlimited Clients</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free Domain Name</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Free Setup</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free WHMCS License</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Free Billing Software</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4><i class="fa fa-check-square-o"></i>No Hidden Fees</h4>
@@ -106,13 +106,13 @@
                       <h4><i class="fa fa-check-square-o"></i>Built in Firewall</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free Control Panel</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Easy Control Panel</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4><i class="fa fa-check-square-o"></i>24/7 Support Access</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free Setup / Migration</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Paid Setup / Migration</h4>
                     </div>
                   </div>
                   <div class="row">
@@ -189,14 +189,14 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
-            <h2>GIGA-016</h2>
-            <h3><span>Beginner</span></h3>
-            <h1><sup>$</sup>29<small>.99</small></h1>
+            <h2>Silver</h2>
+            <h3><span>Shared</span></h3>
+            <h1><sup>Rs.</sup>65<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">1 GB Storage</p>
-            <p class="check">10 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">50 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">Latest FFMPEG Supposed</p>
+            <p class="order"><a href="cart.php?a=add&pid=1" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -205,13 +205,13 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInUp">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-2.png" class="img-responsive" alt="...">
-            <h2>GIGA-032</h2>
-            <h3><span>Intermediate</span></h3>
-            <h1><sup>$</sup>79<small>.99</small></h1>
+            <h2>cPanel</h2>
+            <h3><span>Reseller</span></h3>
+            <h1><sup>Rs.</sup>199<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">10 GB Storage</p>
+            <p class="check">50 GB Storage</p>
             <p class="check">100 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
+            <p class="check">Free cPanel/WHM</p>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
@@ -221,13 +221,13 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2>GIGA-064</h2>
-            <h3><span>Advanced</span></h3>
-            <h1><sup>$</sup>149<small>.99</small></h1>
+            <h2>512MB -Basic</h2>
+            <h3><span>VPS</span></h3>
+            <h1><sup>Rs.</sup>400<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">100 GB Storage</p>
-            <p class="check">500 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
+            <p class="check">512 MB RAM</p>
+            <p class="check">10 GB HDD</p>
+            <p class="check">1 GBPS Post Speed</p>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
@@ -268,7 +268,7 @@
         <div class="thumbnail wow zoomInDown">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/wordpress.png" class="img-responsive" alt="...">
             <h3>Word Press</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small> WordPress is the most powerful blogging and website content management system (CMS) in existence today. </small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -279,7 +279,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.3s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/joomla.png" class="img-responsive" alt="...">
             <h3>Joomla</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Joomla is a free and open-source content management system (CMS) for publishing web content.</small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -290,7 +290,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.6s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/drupal.png" class="img-responsive" alt="...">
             <h3>Drupal</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Drupal is free, open source software that can be used by individuals or groups of users To create Website. </small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -301,7 +301,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.9s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/softaculous.png" class="img-responsive" alt="...">
             <h3>Softaculous</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Softaculous is the leading Auto Installer having 377 great scripts, 1115 PHP Classes and we are still adding more.</small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
