@@ -99,11 +99,7 @@
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <h4>Legal</h4>
         <ul class="nav">
-          <li><a href="{$WEB_ROOT}/privacy-policy.php"><i class="fa fa-angle-double-right"></i>Privacy Policy</a></li>
-          <li><a href="{$WEB_ROOT}/sla-agreement.php"><i class="fa fa-angle-double-right"></i>SLA Agreement</a></li>
-          <li><a href="{$WEB_ROOT}/terms-of-service.php"><i class="fa fa-angle-double-right"></i>Terms of Service</a></li>
-          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Copyright Infringement</a></li>
-          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Request D.M.C.A Takedown</a></li>
+          <a href="https://msg91.com/startups/?utm_source=startup-banner"><img src="https://msg91.com/images/startups/msg91Badge.png" width="120" height="90" title="MSG91 - SMS for Startups" alt="Bulk SMS - MSG91"></a>
         </ul>
       </div>
       <!--End Column--> 
@@ -117,8 +113,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <p class="slogan">Company #0123456789 &nbsp;&nbsp; | &nbsp;&nbsp; VAT #GB 0123456789</p>
-        <p>Copyright &copy; {$date_year} - <a href="http://www.whmcsthemes.com" target="_blank">WHMCSThemes.com</a> - All Rights Reserved.</p>
+        <p class="slogan">Contact: +917384087247 | Email: support[at]bingloft.com</p>
+        <p>Copyright &copy; {$date_year} - <a href="http://www.bingloft.com" target="_blank">BingLoft.Com</a> - All Rights Reserved.</p>
       </div>
     </div>
   </div>
