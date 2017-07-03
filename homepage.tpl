@@ -327,7 +327,7 @@
       <div class="col-md-2 text-center">
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.2s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/symantec.png" class="img-responsive" alt="...">
-            <h4>$27.99 USD <small>Yearly</small></h4>
+            <h4>Rs. 6900 INR <small>Yearly</small></h4>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
@@ -337,7 +337,7 @@
       <div class="col-md-2 text-center">
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.4s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/comodo.png" class="img-responsive" alt="...">
-            <h4>$28.99 USD <small>Yearly</small></h4>
+            <h4>Rs. 1300 INR<small>Yearly</small></h4>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
@@ -347,7 +347,7 @@
       <div class="col-md-2 text-center">
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.6s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/thawte.png" class="img-responsive" alt="...">
-            <h4>$29.99 USD <small>Yearly</small></h4>
+            <h4>Rs. 6600 INR<small>Yearly</small></h4>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
@@ -365,19 +365,19 @@
       <!--Begin Item-->
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" id="xscenter">
         <h3><i class="fa fa-server"></i>Infrastructure</h3>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p>BingLoft is equipped with the most advanced systems and infrastructure, in order to provide the quality, the safety and the peace of mind you need for your business, we use servers built with top-notch quality hardware.</p>
         <a href="about-us.php" class="btn btn-gray btn-sm"><i class="fa fa-question-circle"></i>Learn More</a> </div>
       <!--End Item--> 
       <!--Begin Item-->
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" id="xscenter">
         <h3><i class="fa fa-cloud-upload"></i>Uptime Guarantee</h3>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p>At BingLoft we know that if your network or servers are down, you are losing revenue and opportunities. That's why BingLoft created our aggressive 99.99% Up Time SLA for all of our Hosting Packages.</p>
         <a href="faqs.php" class="btn btn-gray btn-sm"><i class="fa fa-question-circle"></i>Learn More</a> </div>
       <!--End Item--> 
       <!--Begin Item-->
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" id="xscenter">
         <h3><i class="fa fa-life-ring"></i>Support Center</h3>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <p>We'll take care of all the challenges you come across, no matter how difficult they might be - 24 hours a day, 7 days a week. We provide support by Phone, Live Chat, Email, we have the right answers to your questions.</p>
         <a href="opening-hours.php" class="btn btn-gray btn-sm"><i class="fa fa-question-circle"></i>Learn More</a> </div>
       <!--End Item--> 
     </div>
