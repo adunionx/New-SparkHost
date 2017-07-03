@@ -328,7 +328,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.2s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/symantec.png" class="img-responsive" alt="...">
             <h4>Rs. 6900 INR <small>Yearly</small></h4>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
+            <p class="order"><a href="cart.php?gid=34" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
       </div>
@@ -338,7 +338,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.4s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/comodo.png" class="img-responsive" alt="...">
             <h4>Rs. 1300 INR<small>Yearly</small></h4>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
+            <p class="order"><a href="cart.php?gid=34" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
       </div>
@@ -348,7 +348,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.6s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/ssl-certificates/thawte.png" class="img-responsive" alt="...">
             <h4>Rs. 6600 INR<small>Yearly</small></h4>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
+            <p class="order"><a href="cart.php?gid=34" class="btn btn-blue btn-sm" role="button"><i class="fa fa-shopping-cart"></i>Order Now</a></p>
           </div>
         </div>
       </div>
