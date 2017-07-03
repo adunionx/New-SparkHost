@@ -44,15 +44,15 @@
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Small Plan</h2>
+            <h2 class="plan">Besic</h2>
             <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>199<small>.00</small></h1>
+            <h1><sup>Rs.</sup>250<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">10 cPanel Accounts</p>
-            <p class="check">50 GB Sotrage</p>
-            <p class="check">200 GB Bandwidth</p>
+            <p class="check">250 cPanel Accounts</p>
+            <p class="check">250 GB Sotrage</p>
+            <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=5" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=34" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -61,66 +61,15 @@
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Normal Plan</h2>
+            <h2 class="plan">Normal</h2>
             <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>299<small>.00</small></h1>
+            <h1><sup>Rs.</sup>450<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">20 cPanel Accounts</p>
-            <p class="check">100 GB Sotrage</p>
-            <p class="check">400 GB Bandwidth</p>
-            <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=8" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
-          </div>
-        </div>
-      </div>
-      <!--End Plan Data--> 
-      <!--Begin Plan Data-->
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-        <div class="thumbnail wow fadeInRight">
-          <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Advance Plan</h2>
-            <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>399<small>.00</small></h1>
-            <p class="specs">Monthly</p>
-            <p class="check">40 cPanel Accounts</p>
-            <p class="check">200 GB Sotrage</p>
-            <p class="check">800 GB Bandwidth</p>
-            <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=9" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
-          </div>
-        </div>
-      </div>
-      <!--End Plan Data--> 
-      <!--Begin Plan Data-->
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-        <div class="thumbnail wow fadeInRight">
-          <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Commercial Plan</h2>
-            <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>499<small>.00</small></h1>
-            <p class="specs">Monthly</p>
-            <p class="check">80 cPanel Accounts</p>
-            <p class="check">300 GB Sotrage</p>
-            <p class="check">1600 GB Bandwidth</p>
-            <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=12" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
-          </div>
-        </div>
-      </div>
-      <!--End Plan Data-->
-      <!--Begin Plan Data--> 
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-        <div class="thumbnail wow fadeInRight">
-          <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Business Plan</h2>
-            <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>699<small>.00</small></h1>
-            <p class="specs">Monthly</p>
-            <p class="check">160 cPanel Accounts</p>
+            <p class="check">500 cPanel Accounts</p>
             <p class="check">500 GB Sotrage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=13" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=35" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -129,15 +78,15 @@
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">Reseller Hosting Unlimited Plan</h2>
+            <h2 class="plan">Unlimited</h2>
             <h3 class="plan"><span>cPanel</span></h3>
-            <h1><sup>Rs.</sup>799<small>.00</small></h1>
+            <h1><sup>Rs.</sup>650<small>.00</small></h1>
             <p class="specs">Monthly</p>
             <p class="check">Unlimited cPanel Accounts</p>
             <p class="check">Unlimited Sotrage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=14" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=36" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -152,7 +101,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-9 col-sm-12 col-xs-12">
-        <h3 class="wow fadeInLeft"><i class="fa fa-arrow-circle-right"></i>Free WHMCS License Included</h3>
+        <h3 class="wow fadeInLeft"><i class="fa fa-arrow-circle-right"></i>Buy WHMCS License at Cheap Cost</h3>
         <p class="light wow fadeInLeft">WHMCS is the leading provider of automated billing software and does the hard work for you.</p>
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
