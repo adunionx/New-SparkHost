@@ -63,10 +63,10 @@
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <h4>Hosting</h4>
         <ul class="nav">
-          <li><a href="{$WEB_ROOT}/voice-servers.php"><i class="fa fa-angle-double-right"></i>Voice Servers</a></li>
-          <li><a href="{$WEB_ROOT}/game-servers.php"><i class="fa fa-angle-double-right"></i>Game Servers</a></li>
+          <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-angle-double-right"></i>Shared Hosting</a></li>
           <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-angle-double-right"></i>Reseller Hosting</a></li>
-          <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-angle-double-right"></i>Website Hosting</a></li>
+          <li><a href="{$WEB_ROOT}/cart.php?gid=33"><i class="fa fa-angle-double-right"></i>Live Streaming</a></li>
+          <li><a href="{$WEB_ROOT}/cart.php?gid=31"><i class="fa fa-angle-double-right"></i>Virtual Private Server</a></li>
           <li><a href="{$WEB_ROOT}/dedicated-servers.php"><i class="fa fa-angle-double-right"></i>Dedicated Servers</a></li>
         </ul>
       </div>
@@ -76,8 +76,8 @@
         <h4>Services</h4>
         <ul class="nav">
           <li><a href="{$WEB_ROOT}/website-design.php"><i class="fa fa-angle-double-right"></i>Web Design</a></li>
-          <li><a href="{$WEB_ROOT}/domain-names.php"><i class="fa fa-angle-double-right"></i>Domain Names</a></li>
-          <li><a href="{$WEB_ROOT}/ssl-certificates.php"><i class="fa fa-angle-double-right"></i>SSL Certificates</a></li>
+          <li><a href="{$WEB_ROOT}/domainchecker.php"><i class="fa fa-angle-double-right"></i>Domain Names</a></li>
+          <li><a href="{$WEB_ROOT}/cart.php?gid=34"><i class="fa fa-angle-double-right"></i>SSL Certificates</a></li>
           <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-angle-double-right"></i>Service Price List</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Request Custom Quote</a></li>
         </ul>
@@ -87,10 +87,10 @@
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <h4>Company</h4>
         <ul class="nav">
-          <li><a href="{$WEB_ROOT}/faqs.php"><i class="fa fa-angle-double-right"></i>F.A.Q's</a></li>
+          <li><a href="{$WEB_ROOT}/privacy-policy.php"><i class="fa fa-angle-double-right"></i>Privacy Policy</a></li>
           <li><a href="{$WEB_ROOT}/about-us.php"><i class="fa fa-angle-double-right"></i>About Us</a></li>
-          <li><a href="{$WEB_ROOT}/portfolio.php"><i class="fa fa-angle-double-right"></i>Portfolio</a></li>
-          <li><a href="{$WEB_ROOT}/promotions.php"><i class="fa fa-angle-double-right"></i>Promotions</a></li>
+          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
+          <li><a href="{$WEB_ROOT}/terms-of-service.php"><i class="fa fa-angle-double-right"></i>Terms of Service</a></li>
           <li><a href="{$WEB_ROOT}/opening-hours.php"><i class="fa fa-angle-double-right"></i>Opening Hours</a></li>
         </ul>
       </div>
